@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+//edited 2015/06/02
 public class cf158A {
 	   public static void main(String[] args) {
 	      MyScanner sc = new MyScanner();
@@ -46,19 +47,15 @@ public class cf158A {
 	          }
 	          return st.nextToken();
 	      }
-	 
 	      int nextInt() {
 	          return Integer.parseInt(next());
 	      }
-	 
 	      long nextLong() {
 	          return Long.parseLong(next());
 	      }
-	 
 	      double nextDouble() {
 	          return Double.parseDouble(next());
 	      }
-	 
 	      String nextLine(){
 	          String str = "";
 		  try {
