@@ -1,2 +1,2 @@
-# Codeforces_problemset
-for practice, I will put some Java code for solved/trying problems on codeforces. Please leave comments freely for improvement of our skills.
+# Codeforces_Java
+for practice, I will write some Java code for problems on codeforces_problemset. Please leave comments freely for improvement of our skills... or just have fun chatting :D 
